@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+:root {
+  --background: #FFFFFF;
+  --foreground: #1A1A1A;
+}
+
+body {
+  background-color: #FFFFFF;
+  color: var(--foreground);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-cormorant);
+}
+
+p, span, a, li, label, button, input, select, textarea {
+  font-family: var(--font-lato);
+}
+
+a:hover {
+  color: #D0021B;
+}
+
+button:hover {
+  color: #D0021B;
+}
