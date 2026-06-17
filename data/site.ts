@@ -6,7 +6,7 @@ export const site = {
   description:
     "Independent buying guides for vacuum sealers, kitchen scales, thermometers, cutting boards, and more — curated Amazon picks for serious home cooks.",
   email: "info@fermentcrush.com",
-  affiliateTag: "YOURTAG-20",
+  affiliateTag: "fermentcrush-20",
   address: {
     street: "4821 Cultures Way",
     city: "Portland",
